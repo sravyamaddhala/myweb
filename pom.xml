@@ -32,11 +32,11 @@
 	<distributionManagement>
 	    <repository>
 	        <id>nexusRepo</id>
-	        <url>http://15.206.174.147:8081/repository/mv1/</url>
+	        <url>http://13.201.193.218:8081/repository/re1/</url>
 	    </repository>
 	    <snapshotRepository>
 	        <id>nexusRepo</id>
-	        <url>http://15.206.174.147:8081/repository/mvn2/</url>
+	        <url>http://13.201.193.218:8081/repository/snap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 
